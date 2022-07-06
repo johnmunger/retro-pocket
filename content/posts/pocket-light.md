@@ -14,7 +14,7 @@ tags:
   - pocket
   - gameboy
 # nolastmod: true
-draft: true
+draft: false
 ---
 
 Toyota GameBoy Pocket
