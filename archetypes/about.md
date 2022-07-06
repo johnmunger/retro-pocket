@@ -2,11 +2,11 @@
 title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
 lastmod: {{ .Date }}
-draft: true
+draft: false
 ---
 
-Cut out summary from your post content here.
+hello world
 
 <!--more-->
 
-The remaining content of your post.
+the rest
